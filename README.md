@@ -7,7 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=orchid-1028&theme=discord)](https://github.com/orchid-1028/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/NENE_KOI__)
+[![My Twitter Followers](https://badgen.net/twitter/follow/NENE_KOI__)](https://twitter.com/NENE_KOI__)
+
 
 
 # NOW TRAINING
