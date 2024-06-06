@@ -1,5 +1,4 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
+# Fledgling Developer in Japan 😸
 ### Feel free to contact me anytime!👍
 #
 ![orchid-1028 GitHub stats](https://github-readme-stats.vercel.app/api?username=orchid-1028&show_icons=true&theme=vue-dark)
