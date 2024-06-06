@@ -5,7 +5,7 @@
 
 # NOW TRAINING
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# My Skill (Programming Languages, tools)
 
   
 # NOW TRAINING
