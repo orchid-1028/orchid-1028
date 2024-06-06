@@ -5,8 +5,10 @@
 ![orchid-1028 GitHub stats](https://github-readme-stats.vercel.app/api?username=orchid-1028&show_icons=true&theme=vue-dark)
 
 # NOW TRAINING
+All of plogramming ><
 
 # My Skill (Programming Languages, tools)
+Python, C++ ...
 
   
 # NOW TRAINING
