@@ -7,14 +7,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=orchid-1028&theme=discord)](https://github.com/orchid-1028/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/nene_sevenstar)
+[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/NENE_KOI__)
 
 
 # NOW TRAINING
 
 <p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
+<a href="https://twitter.com/[NENE_KOI__]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="[nene._.1028@tpc3.org]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[nene._.1028@tpc3.org]"/></a>
 </p>
 
 
