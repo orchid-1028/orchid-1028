@@ -3,10 +3,6 @@
 #
 ![orchid-1028 GitHub stats](https://github-readme-stats.vercel.app/api?username=orchid-1028&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orchid-1028&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=orchid-1028&theme=discord)](https://github.com/orchid-1028/github-profile-trophy)
-
 # NOW TRAINING
 
 # My Skill (Programming Languages, Frameworks and Tools)
