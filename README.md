@@ -14,7 +14,7 @@
 
 <p align="left">
 <a href="https://twitter.com/NENE_KOI__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="nene._.1028@tpc3.org"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=nene._.1028@tpc3.org"/></a>
+<a href="orchid106587@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=orchid106587@gmail.com"/></a>
 </p>
 
 
